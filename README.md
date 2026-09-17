@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Seps Sepahvand>`
-- **CCID:** `<1734521>`
+- **Full Name:** `Seps Sepahvand`
+- **CCID:** `1734521`
 
 ## References and Resources
 
